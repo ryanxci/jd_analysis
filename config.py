@@ -5,7 +5,7 @@ database_config = {
     'host': 'localhost',
     'port': 3306,
     'user': 'root',
-    'password': '123456',
+    'password': 'zxcvbnm',
     'charset': 'utf8',
 }
 
@@ -14,7 +14,7 @@ database = 'jd'
 jd_item_table = 'item'
 analysis_item_table = 'analysis'
 
-redis_pass = ''
+redis_pass = 'zxcvbnm'
 redis_host = 'localhost'
 redis_part = '6379'
 redis_db = 10

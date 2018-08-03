@@ -77,7 +77,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'jd_analysis',
         'USER': 'root',
-        'PASSWORD': '123456',
+        'PASSWORD': 'zxcvbnm',
         'HOST': '',
         'PORT': '',
     }
