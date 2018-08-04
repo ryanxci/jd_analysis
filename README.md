@@ -1,7 +1,7 @@
 # 京东商城商品评价数据分析
 附上使用地址
-体验地址：<http://awolfly9.com/jd/>
-体验示例地址：<http://awolfly9.com/article/jd_comment_analysis>
+体验地址：<http://ryanxci.com/jd/>
+体验示例地址：<http://ryanxci.com/article/jd_comment_analysis>
 
 ## 项目来源
 互联网购物现在已经是非常普遍的购物方式，在互联网上购买商品并且使用之后，很多人都会回过头来对自己购买的商品进行一些评价，以此来表达自己对于该商品使用后的看法。商品评价的好坏对于一个商品的重要性显而易见，大部分消费者都以此作为快速评判该商品质量优劣的方式。所以，与此同时，有些商家为了获得好评，还会做一些 "好评优惠" 或者 "返点" 活动来刺激消费者评价商品。<br>
@@ -38,7 +38,7 @@ $ pip install Django django-crontab Scrapy requests pymysql pandas numpy wordclo
 将项目克隆到本地
 
 ```
-$ git clone https://github.com/awolfly9/jd_analysis.git
+$ git clone https://github.com/ryanxci/jd_analysis.git
 ```
 
 进入工程目录
@@ -131,7 +131,7 @@ $ python manage.py runserver
 
 ## 项目说明
 完整流程介绍，请见
-<http://awolfly9.com/article/jd_comment_full_doc>
+<http://ryanxci.com/article/jd_comment_full_doc>
 
 如果在使用过程中有任何问题，欢迎提 Issues，也可联系我的微信进入微信群和大伙一起学习。（在我博客中可以找到我的微信）
 

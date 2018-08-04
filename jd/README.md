@@ -1,8 +1,8 @@
 # 分布式抓取京东商城评价并且使用 pandas 进行数据分析
 
 现在互联网购物已经非常成熟而且很多人在网上购买商品后都会留下评论信息，而且有些商家为了获得好评还有一些好评优惠或者返点，那么我想试试可以从这些评价信息中获取到怎样的价值呢,我采用分布式快速抓取京东的评价信息，然后使用 pandas 对抓取到的数据进行分析。话不多说先附上使用地址<br>
-体验地址：<http://awolfly9.com/jd/><br>
-体验示例地址：<http://awolfly9.com/article/jd_comment_analysis><br>
+体验地址：<http://ryanxci.com/jd/><br>
+体验示例地址：<http://ryanxci.com/article/jd_comment_analysis><br>
 
 
 **想要分析京东商城的商品评价信息，那么需要做些什么呢** <br>
@@ -62,9 +62,9 @@
 ### 大功告成
 以上就是完整的抓取京东商品的评价信息并且使用 pandas 分析评价然后利用 Django 搭建后台前端显示抓取和分析结果的所有步骤。<br>
 
-再次贴上使用地址：<http://awolfly9.com/jd/> 欢迎多多尝试，多挑毛病~<br>
+再次贴上使用地址：<http://ryanxci.com/jd/> 欢迎多多尝试，多挑毛病~<br>
 如果你对这个项目感兴趣欢迎和我交流沟通，我也建立了这个项目和数据分析的微信群，也可以加我好友进微信群，我的个人微信<br>
-![](http://awolfly9.com/static/images/weixin.png)
+![](http://ryanxci.com/static/images/weixin.png)
 
 
 
